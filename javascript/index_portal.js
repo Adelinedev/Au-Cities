@@ -201,96 +201,96 @@ function gotoDesiredCity(event) {
   switch (cityTrim) {
     case "ade":
     case "adelaide":
-      window.open("../Aucities/html/city_Adelaide.html", "_self");
+      window.open("../Au-Cities/html/city_Adelaide.html", "_self");
       break;
 
     case "ballarat":
-      window.open("../Aucities/html/city_Ballarat.html", "_self");
+      window.open("../Au-Cities/html/city_Ballarat.html", "_self");
       break;
 
     case "bris":
     case "brisbane":
-      window.open("../Aucities/html/city_Brisbane.html", "_self");
+      window.open("../Au-Cities/html/city_Brisbane.html", "_self");
       break;
 
     case "bendigo":
-      window.open("../Aucities/html/city_Bendigo.html", "_self");
+      window.open("../Au-Cities/html/city_Bendigo.html", "_self");
       break;
 
     case "cai":
     case "cairns":
-      window.open("../Aucities/html/city_Cairns.html", "_self");
+      window.open("../Au-Cities/html/city_Cairns.html", "_self");
       break;
 
     case "can":
     case "canberra":
-      window.open("../Aucities/html/city_Canberra.html", "_self");
+      window.open("../Au-Cities/html/city_Canberra.html", "_self");
       break;
 
     case "dar":
     case "darwin":
-      window.open("../Aucities/html/city_Darwin.html", "_self");
+      window.open("../Au-Cities/html/city_Darwin.html", "_self");
       break;
 
     case "ade":
     case "adelaide":
-      window.open("../Aucities/html/city_Adelaide.html", "_self");
+      window.open("../Au-Cities/html/city_Adelaide.html", "_self");
       break;
 
     case "gee":
     case "geelong":
-      window.open("../Aucities/html/city_Geelong.html", "_self");
+      window.open("../Au-Cities/html/city_Geelong.html", "_self");
       break;
 
     case "gc":
     case "gold":
     case "coast":
     case "goldcoast":
-      window.open("../Aucities/html/city_GoldCoast.html", "_self");
+      window.open("../Au-Cities/html/city_GoldCoast.html", "_self");
       break;
 
     case "ade":
     case "adelaide":
-      window.open("../Aucities/html/city_Adelaide.html", "_self");
+      window.open("../Au-Cities/html/city_Adelaide.html", "_self");
       break;
 
     case "hobart":
-      window.open("../Aucities/html/city_Hobart.html", "_self");
+      window.open("../Au-Cities/html/city_Hobart.html", "_self");
       break;
 
     case "mel":
     case "melbourne":
-      window.open("../Aucities/html/city_Melbourne.html", "_self");
+      window.open("../Au-Cities/html/city_Melbourne.html", "_self");
       break;
 
     case "newcastle":
-      window.open("../Aucities/html/city_Newcastle.html", "_self");
+      window.open("../Au-Cities/html/city_Newcastle.html", "_self");
       break;
 
     case "perth":
-      window.open("../Aucities/html/city_Perth.html", "_self");
+      window.open("../Au-Cities/html/city_Perth.html", "_self");
       break;
 
     case "albury":
-      window.open("../Aucities/html/city_sample_Albury.html", "_self");
+      window.open("../Au-Cities/html/city_sample_Albury.html", "_self");
       break;
 
     case "syd":
     case "sydney":
-      window.open("../Aucities/html/city_Sydney.html", "_self");
+      window.open("../Au-Cities/html/city_Sydney.html", "_self");
       break;
 
     case "too":
     case "toowoomba":
-      window.open("../Aucities/html/city_Toowoomba.html", "_self");
+      window.open("../Au-Cities/html/city_Toowoomba.html", "_self");
       break;
 
     case "townsville":
-      window.open("../Aucities/html/city_Townsville.html", "_self");
+      window.open("../Au-Cities/html/city_Townsville.html", "_self");
       break;
 
     case "wollongong":
-      window.open("../Aucities/html/city_Wollongong.html", "_self");
+      window.open("../Au-Cities/html/city_Wollongong.html", "_self");
       break;
   }
 }
