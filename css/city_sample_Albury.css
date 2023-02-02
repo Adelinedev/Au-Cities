@@ -51,7 +51,7 @@ a {
 }
 
 header {
-  background: url(../database/Albury/background.png) center/cover no-repeat;
+  background: url(../public/Albury/background.png) center/cover no-repeat;
   position: relative;
   height: 35vh;
 }
@@ -208,7 +208,7 @@ main {
 }
 /* econmy */
 #e1 {
-  background: url("../database/Albury/Albury_carpenter.png") center/cover
+  background: url("../public/Albury/Albury_carpenter.png") center/cover
     no-repeat;
 }
 
@@ -402,11 +402,11 @@ footer {
   padding: 0;
 }
 .footer1 p {
-    margin-top: .2rem;
+  margin-top: 0.2rem;
 }
 .footer1 h5 {
-    color: rgba(205, 230, 255, 0.956);
-    font-weight: 700;
+  color: rgba(205, 230, 255, 0.956);
+  font-weight: 700;
 }
 #project-text,
 #outer-resource,
@@ -458,16 +458,18 @@ footer {
   animation: rotate 3s infinite alternate;
 }
 @keyframes rotate {
-    0% {transform: rotate(50deg);}
-    100% {transform: rotate(-50deg);}
-    
+  0% {
+    transform: rotate(50deg);
+  }
+  100% {
+    transform: rotate(-50deg);
+  }
 }
 @media screen and (min-width: 1024px) {
-    .footer1 img {
-      animation: none;
-    }
+  .footer1 img {
+    animation: none;
   }
-
+}
 
 .footer2 {
   text-align: center;
@@ -475,45 +477,43 @@ footer {
 
 /* images */
 #Albury-Skate-Park {
-  background: url("../database/Albury/Albury\ Skate\ Park.png") center/cover
+  background: url("../public/Albury/Albury\ Skate\ Park.png") center/cover
     no-repeat;
 }
 
 #Thurgoona-Skate-Park {
-  background: url("../database/Albury/Thurgoona\ Skate\ Park.png") center/cover
+  background: url("../public/Albury/Thurgoona\ Skate\ Park.png") center/cover
     no-repeat;
 }
 #Springdale-Heights {
-  background: url("../database/Albury/Springdale\ Heights\ Pump\ Track.png")
+  background: url("../public/Albury/Springdale\ Heights\ Pump\ Track.png")
     center/cover no-repeat;
 }
 #Lake-Hume {
-  background: url("../database/Albury/Lake\ Hume\ Village\ Boat\ Ramp.png")
+  background: url("../public/Albury/Lake\ Hume\ Village\ Boat\ Ramp.png")
     center/cover no-repeat;
 }
 
 #Kremur-Street {
-  background: url("../database/Albury/Kremur\ Street.png") center/cover
-    no-repeat;
+  background: url("../public/Albury/Kremur\ Street.png") center/cover no-repeat;
 }
 #Mungabareena-Reserve {
-  background: url("../database/Albury/Mungabareena\ Reserve.png") center/cover
+  background: url("../public/Albury/Mungabareena\ Reserve.png") center/cover
     no-repeat;
 }
 #Heritage-Walk {
-  background: url("../database/Albury/Heritage\ walk.png") center/cover
-    no-repeat;
+  background: url("../public/Albury/Heritage\ walk.png") center/cover no-repeat;
 }
 #Nail-Can-Hill {
-  background: url("../database/Albury/Nail\ Can\ Hill\ :\ Ridge\ Trail.png")
+  background: url("../public/Albury/Nail\ Can\ Hill\ :\ Ridge\ Trail.png")
     center/cover no-repeat;
 }
 
 #Bungambrawatha-Creek {
-  background: url("../database/Albury/Bungambrawatha\ Creek\ Trail.png")
+  background: url("../public/Albury/Bungambrawatha\ Creek\ Trail.png")
     center/cover no-repeat;
 }
 #Rainforest-Walk {
-  background: url("../database/Albury/Rainforest\ walk.png") center/cover
+  background: url("../public/Albury/Rainforest\ walk.png") center/cover
     no-repeat;
 }
